@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Zucco Academy](https://zucco-academy.netlify.app/)
+- 🔭 I’m currently working on [Perfect Clean Plast](https://perfectcleanplast.uz/)
 
 - 🌱 I’m currently learning **Vue**
 
