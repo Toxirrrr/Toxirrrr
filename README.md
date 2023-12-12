@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on [Perfect Clean Plast](https://perfectcleanplast.uz/)
+- 🔭 I’m currently working on [BYD SPARE PARTS]()
 
 - 🌱 I’m currently learning **Vue**
 
-- 🤝 I’m looking for help with [Zucco Academy](https://zucco-academy.netlify.app/)
+- 🤝 I’m looking for help with [Zucco Academy](https://zucco.uz/)
 
 - 💬 Ask me about **Vue**
 
