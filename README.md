@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 🤝 I’m looking for help with [Zucco Academy](https://zucco.uz/)
-
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **toxirrrrdev@gmail.com**
