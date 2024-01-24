@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [BYD SPARE PARTS](https://www.avtozapchast.uz)
+- 🔭 I’m currently working on [BYD SPARE PARTS](https://www.autozapchast.uz)
 
 - 🌱 I’m currently learning **Vue**
 
