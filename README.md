@@ -7,13 +7,7 @@
 
 - 🔭 I’m currently working on [BYD SPARE PARTS](https://www.autozapchast.uz)
 
-- 🌱 I’m currently learning **Vue**
-
-- 💬 Ask me about **Vue**
-
-- 📫 How to reach me **toxirrrrdev@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/10g_Q5DXsM92UkAgrvM_SfE01mzR-q-xf/edit#](https://docs.google.com/document/d/10g_Q5DXsM92UkAgrvM_SfE01mzR-q-xf/edit#)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/10g_Q5DXsM92UkAgrvM_SfE01mzR-q-xf/edit#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
