@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxirrr&label=Profile%20views&color=0e75b6&style=flat" alt="toxirrr" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
 
 
 - 🔭 I’m currently working on [BYD SPARE PARTS](https://www.autozapchast.uz)
@@ -27,5 +28,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxirrrr&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
 
