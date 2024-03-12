@@ -27,4 +27,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxirrrr&layout=compact)
 
-<img src="https://github.com/muhammadBobur0/muhammadbobur0/raw/main/images/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+https://github.com/DiabloDraco/DiabloDraco/blob/main/images/github-contribution-grid-snake.svg
+
