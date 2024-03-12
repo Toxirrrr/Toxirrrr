@@ -27,5 +27,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxirrrr&layout=compact)
 
-https://raw.githubusercontent.com/DiabloDraco/DiabloDraco/main/images/github-contribution-grid-snake.svg
+[![wakatime](https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
 
