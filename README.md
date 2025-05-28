@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxirrr&label=Profile%20views&color=0e75b6&style=flat" alt="toxirrr" /> </p>
 
-- 🔭 I’m currently working on [World Visa](https://www.worldvisa.uz)
+- 🔭 I’m currently working on [Farid Ziyo Global Visions Local Success](https://www.faridziyo.com)
 
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/10g_Q5DXsM92UkAgrvM_SfE01mzR-q-xf/edit#)
 
