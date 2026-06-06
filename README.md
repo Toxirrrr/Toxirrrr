@@ -1,114 +1,171 @@
 <div align="center">
 
-# Hi there, I'm Toxir To'rayev 👋
-### Full-Stack Developer | Frontend Specialist
+# Toxir To'rayev
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-toxirrr.uz-2563EB?style=flat-square&logo=globe&logoColor=white)](https://toxirrr.uz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/toxir-turayev-89255b274)
-[![WakaTime](https://img.shields.io/badge/WakaTime-Profile-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
+### Full-Stack Developer with Strong Frontend Experience
+
+Building web applications, APIs, internal platforms and production systems with JavaScript and TypeScript.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-toxirrr.uz-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://toxirrr.uz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toxir_To'rayev-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/toxir-turayev-89255b274)
+[![WakaTime](https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I build production web applications, internal platforms, APIs, dashboards, workflow systems, and integrations. With commercial experience across frontend and full-stack projects, I focus on delivering robust, maintainable software and intuitive user interfaces.
+I build production web applications, internal platforms, dashboards, APIs, and workflow-driven systems.
 
-- 🌍 Based in **Tashkent, Uzbekistan**
-- 🔭 Currently focused on **Product Engineering**, **Frontend Architecture**, and **SaaS Platforms**
-- ⚙️ Optimizing development workflows with **AI-assisted tools** (Claude, Codex) and automation (n8n)
-- 🤝 Open to collaboration on **production systems** and complex frontend challenges
+My primary focus is frontend development using Vue.js and Nuxt.js, while also working across backend services, databases, infrastructure, and integrations when needed.
 
----
-
-## 🛠️ Featured Technologies
-
-I work primarily within the JavaScript/TypeScript ecosystem, utilizing modern frameworks and tooling to build scalable applications.
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00C58E" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Astro-0C0A20?style=for-the-badge&logo=astro&logoColor=FF7A00" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white" alt="UnoCSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
-</details>
-
-<details open>
-<summary><b>Backend & Databases</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=databricks&logoColor=white" alt="REST" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-</details>
-
-<details open>
-<summary><b>Infrastructure & Automation</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
-</p>
-</details>
+* 📍 Tashkent, Uzbekistan
+* 💻 Full-Stack Developer
+* ⚡ Strong Frontend Background
+* 🧠 Interested in Product Engineering and System Design
+* 🤖 Using AI-assisted development workflows with Claude and Codex
+* 🚀 Focused on building reliable and maintainable software
 
 ---
 
-## 📊 GitHub Metrics
+## Current Focus
+
+* Production-ready web applications
+* Frontend architecture
+* API integrations
+* Dashboard systems
+* Workflow automation
+* Performance optimization
+* AI-assisted development
+* SaaS platforms
+
+---
+
+## Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxtdotjs\&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge\&logo=astro\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+
+### Database & Cache
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### Automation & Integrations
+
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6B7280?style=for-the-badge)
+
+### AI-Assisted Development
+
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge)
+
+---
+
+## Featured Projects
+
+### CRM Platform
+
+Production-oriented platform featuring:
+
+* Dashboard systems
+* Workflow management
+* REST API integrations
+* Role-based access control
+* Document processing
+* Billing logic
+* Frontend/backend architecture
+
+### Educational Platform
+
+Internal platform for:
+
+* Student management
+* Teacher management
+* Group management
+* Academic workflows
+* Internal dashboards
+
+### Consulting Platform
+
+Business platform featuring:
+
+* Client management
+* Operational workflows
+* Document processing
+* Internal tools
+* Dashboard interfaces
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toxirrrr&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Toxirrrr&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Streak" width="48%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Toxirrrr&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Toxirrrr&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxirrrr&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6" alt="Top Languages" width="60%" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxirrrr&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## 📈 Coding Activity
+## Coding Activity
 
-<a href="https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f">
-  <img src="https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg" alt="Total time coded since registered" />
-</a>
-
-<br><br>
+[![wakatime](https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
 
 <!--START_SECTION:waka-->
-*Weekly coding activity will be displayed here automatically when the waka-readme Action is configured.*
+
 <!--END_SECTION:waka-->
 
 ---
 
-## 💡 Professional Facts
+## Contribution Activity
 
-- I prioritize code maintainability and system reliability over shipping fast and fixing later.
-- Heavily focused on component-driven design and scalable frontend architectures.
-- Integrating AI into development workflows to accelerate delivery and reduce boilerplate.
-- Strong believer in leveraging automation to eliminate repetitive engineering tasks.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxirrrr&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square\&logo=google-chrome\&logoColor=white)](https://toxirrr.uz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/toxir-turayev-89255b274)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Toxirrrr)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toxirrrr&color=3b82f6" alt="Profile Views" />
-  <br><br>
-  <i>Building robust systems one commit at a time.</i>
+
+![](https://profile-counter.glitch.me/Toxirrrr/count.svg)
+
 </div>
