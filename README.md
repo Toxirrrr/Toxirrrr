@@ -24,7 +24,6 @@ My primary focus is frontend development using Vue.js and Nuxt.js, while also wo
 * 💻 Full-Stack Developer
 * ⚡ Strong Frontend Background
 * 🧠 Interested in Product Engineering and System Design
-* 🤖 Using AI-assisted development workflows with Claude and Codex
 * 🚀 Focused on building reliable and maintainable software
 
 ---
@@ -37,7 +36,6 @@ My primary focus is frontend development using Vue.js and Nuxt.js, while also wo
 * Dashboard systems
 * Workflow automation
 * Performance optimization
-* AI-assisted development
 * SaaS platforms
 
 ---
@@ -81,11 +79,6 @@ My primary focus is frontend development using Vue.js and Nuxt.js, while also wo
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-6B7280?style=for-the-badge)
-
-### AI-Assisted Development
-
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge)
 
 ---
 
