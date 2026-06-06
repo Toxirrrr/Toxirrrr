@@ -1,52 +1,114 @@
-<h1 align="center">Hi 👋, I'm Toxirrrr</h1>
-<h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
+<div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
+# Hi there, I'm Toxir To'rayev 👋
+### Full-Stack Developer | Frontend Specialist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxirrr&label=Profile%20views&color=0e75b6&style=flat" alt="toxirrr" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-toxirrr.uz-2563EB?style=flat-square&logo=globe&logoColor=white)](https://toxirrr.uz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/toxir-turayev-89255b274)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Profile-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f)
 
-- 🔭 I’m currently working on [Farid Ziyo Global Visions Local Success](https://www.faridziyo.com)
+</div>
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/10g_Q5DXsM92UkAgrvM_SfE01mzR-q-xf/edit#)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/toxirrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toxirrrr" height="30" width="40" /></a>
-  <a href="https://dev.to/toxirrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="toxirrr" height="30" width="40" /></a>
-  <a href="https://twitter.com/toxirrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxirrr" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/toxir-turayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toxir-turayev" height="30" width="40" /></a>
-  <a href="https://fb.com/toxirrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toxirrr" height="30" width="40" /></a>
-  <a href="https://instagram.com/toxir.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxir_turayev" height="30" width="40" /></a>
+## 👨‍💻 About Me
+
+I build production web applications, internal platforms, APIs, dashboards, workflow systems, and integrations. With commercial experience across frontend and full-stack projects, I focus on delivering robust, maintainable software and intuitive user interfaces.
+
+- 🌍 Based in **Tashkent, Uzbekistan**
+- 🔭 Currently focused on **Product Engineering**, **Frontend Architecture**, and **SaaS Platforms**
+- ⚙️ Optimizing development workflows with **AI-assisted tools** (Claude, Codex) and automation (n8n)
+- 🤝 Open to collaboration on **production systems** and complex frontend challenges
+
+---
+
+## 🛠️ Featured Technologies
+
+I work primarily within the JavaScript/TypeScript ecosystem, utilizing modern frameworks and tooling to build scalable applications.
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00C58E" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Astro-0C0A20?style=for-the-badge&logo=astro&logoColor=FF7A00" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white" alt="UnoCSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+</details>
+
+<details>
+<summary><b>Backend & Databases</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=databricks&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+</details>
+
+<details>
+<summary><b>Infrastructure & Automation</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toxirrrr&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxirrrr&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Streak" width="48%" />
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/></a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="30" height="30"/></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/></a>
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="30" height="30"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="30" height="30"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxirrrr&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6" alt="Top Languages" width="60%" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxirrrr&layout=compact)
+---
+
+## 📈 Coding Activity
+
+<a href="https://wakatime.com/@8b070e26-063a-4cc2-8a89-09393caf208f">
+  <img src="https://wakatime.com/badge/user/8b070e26-063a-4cc2-8a89-09393caf208f.svg" alt="Total time coded since registered" />
+</a>
+
+<br><br>
+
+<!--START_SECTION:waka-->
+*Weekly coding activity will be displayed here automatically when the waka-readme Action is configured.*
+<!--END_SECTION:waka-->
+
+---
+
+## 💡 Professional Facts
+
+- I prioritize code maintainability and system reliability over shipping fast and fixing later.
+- Heavily focused on component-driven design and scalable frontend architectures.
+- Integrating AI into development workflows to accelerate delivery and reduce boilerplate.
+- Strong believer in leveraging automation to eliminate repetitive engineering tasks.
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Toxirrrr/count.svg" alt="Profile Views" />
+  <br><br>
+  <i>Building robust systems one commit at a time.</i>
+</div>
