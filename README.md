@@ -42,7 +42,7 @@ I work primarily within the JavaScript/TypeScript ecosystem, utilizing modern fr
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Backend & Databases</b></summary>
 <br>
 <p>
@@ -56,7 +56,7 @@ I work primarily within the JavaScript/TypeScript ecosystem, utilizing modern fr
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Infrastructure & Automation</b></summary>
 <br>
 <p>
@@ -75,7 +75,7 @@ I work primarily within the JavaScript/TypeScript ecosystem, utilizing modern fr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Toxirrrr&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxirrrr&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Toxirrrr&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ I work primarily within the JavaScript/TypeScript ecosystem, utilizing modern fr
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Toxirrrr/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Toxirrrr&color=3b82f6" alt="Profile Views" />
   <br><br>
   <i>Building robust systems one commit at a time.</i>
 </div>
